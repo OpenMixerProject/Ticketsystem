@@ -1,4 +1,4 @@
-# Central Plannning and Bug Reporting
+# Central Plannning and 🐛 Bug Reporting
 
 
 Please Report your Bugs and Ideas [here in this Repository](https://github.com/OpenMixerProject/Ticketsystem/issues/new/choose)
